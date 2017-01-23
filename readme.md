@@ -1,10 +1,3 @@
-# Heading 1
+# Welcome to my GitHub!
 
-# line
-
-- branick
-- weix
-- this is 
-- cool
-- ​
-
+My name is Branick. More to come….
